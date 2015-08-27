@@ -1,0 +1,88 @@
+nav {
+
+	font-family: Century;
+	font-size: 30px;
+	color: black;
+	margin-left: 124px; 
+	text-decoration: none;
+	margin-top: 0px;
+	display: inline-block;
+	transform: translateY(-94%);
+}
+nav a {
+	margin-left: 30px;
+}
+img {
+	width: 300px;
+	margin: 0px;
+	display: inline-block;
+}
+.c1, .c2, .c3 {
+	font-size: 16px;
+	font-family: Century;
+	color: black;
+	text-decoration: bold;
+	width: 160px;
+	height: 400px;
+	border: 1px solid black;
+	text-align: left;
+	margin-top: 190px;
+	float: left;
+	padding: 20px;
+	margin-left: 190px;
+	background-color: white;
+
+}
+
+#map{
+	width: 2100px;
+	float:left;
+	margin-top: 300px;
+
+}
+#playerimg{
+	text-decoration: bold;
+	width: 200px;
+	border: 3px solid black;
+	text-align: left;
+	margin-top: 1px;
+	float: left;
+	padding: 10px;
+	margin-left: 190px;
+	background-color: white;
+}
+
+
+.headshot{
+float:left;
+width:200px;
+margin-top:50px;
+margin-left:100px;
+padding-left: 20px;
+
+}
+#playerimgmap{
+	width: 300px;
+	text-align: left;
+	margin-top: 1px;
+	float: left;
+	padding: 10px;
+	margin-left: 190px;
+}
+#teamimg{
+	width: 50px;
+	height:50px;
+	float:left;
+	margin-top: 20px;
+}
+
+
+#playerbar{
+
+
+}
+
+#twitter{
+	width: 800px;
+}
+

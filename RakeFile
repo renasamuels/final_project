@@ -1,0 +1,2 @@
+require './baseball'
+require 'sinatra/activerecord/rake'
